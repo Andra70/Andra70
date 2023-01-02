@@ -11,6 +11,11 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jbylccraqjb96elvufpf8ygd5&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=jbylccraqjb96elvufpf8ygd5&redirect=true)
 
+### The languages I learn
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![FLUTTER](https://img.shields.io/badge/-FLUTTER-000?style=for-the-badge&logo=flutter)
+
 ### 📊 Github Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Andra70?cardType=github&theme=github-dark&Background=121212)](https://git.io/awesome-stats-card)
