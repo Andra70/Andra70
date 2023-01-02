@@ -1,4 +1,4 @@
-![Header](./andra70)
+![Header](./andra70.png)
 
 <h1 align="center"> Hello👋, I'm Andra </br></h1>
 
