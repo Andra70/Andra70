@@ -6,4 +6,4 @@
 
 ### Github Stats 📊
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Andra70?cardType=github&theme=github-dark&Background=121212&Border=DDDDDD)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Andra70?cardType=github&theme=github-dark&Background=121212)](https://git.io/awesome-stats-card)
