@@ -12,7 +12,6 @@
 ### Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=0A66C2)
-![JAVA](https://img.shields.io/badge/-JAVA-000?style=for-the-badge&logo=java)
 <!-- ![FLUTTER](https://img.shields.io/badge/-FLUTTER-000?style=for-the-badge&logo=flutter&logoColor=0A66C2) -->
 
 ### Tools 
