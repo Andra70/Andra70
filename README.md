@@ -14,6 +14,9 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=0A66C2)
 <!-- ![FLUTTER](https://img.shields.io/badge/-FLUTTER-000?style=for-the-badge&logo=flutter&logoColor=0A66C2) -->
 
+### Tools
+![FIGMA](https://img.shields.io/badge/-FIGMA-000?style=for-the-badge&logo=figma)
+
 ### 📊 Github Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Andra70?cardType=github&theme=github-dark&Background=121212)](https://git.io/awesome-stats-card)
