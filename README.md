@@ -1,7 +1,8 @@
 <h1 align="center"> Hello👋, I'm Andra </br></h1>
 
 <p align="center">
-<a href="[https://linkedin.com/in/](https://www.linkedin.com/in/andra-abhinaya-65976718b/)" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
+<a href="[https://linkedin.com/in/](https://www.linkedin.com/in/andra-abhinaya-65976718b/)" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+</p>
 
 #### ♫ Now Playing
 
