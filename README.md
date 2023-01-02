@@ -14,3 +14,5 @@
 ### 📊 Github Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Andra70?cardType=github&theme=github-dark&Background=121212)](https://git.io/awesome-stats-card)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/jbylccraqjb96elvufpf8ygd5?si=f398c53a8c58454d) 
