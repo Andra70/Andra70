@@ -9,7 +9,7 @@
 
 #### ♪ Now Playing
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/jbylccraqjb96elvufpf8ygd5?si=3c31df13ab4b49d3)
+[![Spotify](https://novatorem-Andra70.vercel.app/api/spotify?background_color=0d1117)](https://open.spotify.com/user/jbylccraqjb96elvufpf8ygd5?si=3c31df13ab4b49d3)
 
 ### The languages I learn
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
