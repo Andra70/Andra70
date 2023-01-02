@@ -20,6 +20,9 @@
 ### Game Engine
 ![UNITY](https://img.shields.io/badge/-UNITY-000?style=for-the-badge&logo=unity)
 
+### Other
+![ARDUINO](https://img.shields.io/badge/-ARDUINO-000?style=for-the-badge&logo=arduino)
+
 ### 📊 Github Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Andra70?cardType=github&theme=github-dark&Background=121212)](https://git.io/awesome-stats-card)
