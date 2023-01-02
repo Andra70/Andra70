@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/maviswisanggeni/maviswisanggeni/blob/main/MavisWisanggeni.png)
+
 
 <h1 align="center"> Hello👋, I'm Andra </br></h1>
 
