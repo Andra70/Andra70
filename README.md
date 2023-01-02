@@ -1,7 +1,5 @@
 ![Header](./andra70.png)
 
-<h1 align="center"> Hello👋, I'm Andra </br></h1>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/andra-abhinaya-65976718b/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://open.spotify.com/user/jbylccraqjb96elvufpf8ygd5?si=6780e127835a434f" target="_blank"><img alt="" src="https://img.shields.io/badge/Spotify-000?logo=spotify&logoColor=53b14f&style=for-the-badge" style="vertical-align:center" /></a>
