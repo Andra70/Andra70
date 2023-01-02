@@ -14,10 +14,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=0A66C2)
 <!-- ![FLUTTER](https://img.shields.io/badge/-FLUTTER-000?style=for-the-badge&logo=flutter&logoColor=0A66C2) -->
 
-### Tools
+### Tools 
 ![FIGMA](https://img.shields.io/badge/-FIGMA-000?style=for-the-badge&logo=figma&logoColor=ab7c63)
 
-### Game Engine
+### Game Engine 🎮
 ![UNITY](https://img.shields.io/badge/-UNITY-000?style=for-the-badge&logo=unity)
 
 ### Other
