@@ -9,7 +9,7 @@
 
 #### ♪ Now Playing
 
-[![Spotify](https://novatorem-maviswisanggeni.vercel.app/api/spotify?background_color=0D1117)](https://open.spotify.com/playlist/10U7jhB0y0cpt2oCEdnHZm?si=8567d9ae47c841e2)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=jbylccraqjb96elvufpf8ygd5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=jbylccraqjb96elvufpf8ygd5&redirect=true)
 
 ### The languages I learn
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
