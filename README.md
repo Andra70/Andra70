@@ -1,6 +1,6 @@
 ![Header](./andra70.png)
 
-<h1 align="center"> Hi, I'm Mavis </br></h1>
+</br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/andra-abhinaya-65976718b/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
