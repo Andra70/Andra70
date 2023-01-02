@@ -6,4 +6,4 @@
 
 ### Github Stats 📊
 
-[![GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/Andra70&theme=tokyonight)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Andra70)](https://git.io/awesome-stats-card)
