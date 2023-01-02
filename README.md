@@ -15,7 +15,7 @@
 <!-- ![FLUTTER](https://img.shields.io/badge/-FLUTTER-000?style=for-the-badge&logo=flutter&logoColor=0A66C2) -->
 
 ### Tools
-![FIGMA](https://img.shields.io/badge/-FIGMA-000?style=for-the-badge&logo=figma)
+![FIGMA](https://img.shields.io/badge/-FIGMA-000?style=for-the-badge&logo=figmalogoColor=ab7c63)
 
 ### Game Engine
 ![UNITY](https://img.shields.io/badge/-UNITY-000?style=for-the-badge&logo=unity)
