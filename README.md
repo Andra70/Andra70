@@ -27,7 +27,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andra70&show_icons=true&theme=tokyonight)]
 
-
+<!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Andra70?cardType=github&theme=github-dark&Background=121212)](https://git.io/awesome-stats-card) -->
